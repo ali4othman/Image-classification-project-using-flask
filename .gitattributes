@@ -1,0 +1,4 @@
+*.pkl filter=lfs diff=lfs merge=lfs -text
+*.html linguist-detectable=false
+*.css linguist-detectable=false
+*.ipynb linguist-detectable=false
