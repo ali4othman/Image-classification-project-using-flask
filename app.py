@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 from flask import Flask,redirect,render_template,flash,url_for,request
 from flask_sqlalchemy import SQLAlchemy
 
@@ -163,8 +162,3 @@ def page_not_found(error):
 
 if __name__ == '__main__':
     app.run(debug=True,host='0.0.0.0',port=5000)
-=======
-version https://git-lfs.github.com/spec/v1
-oid sha256:0a6da51f7a17936f266471221d4fd7b71c3c51916ba404c8829c52c83944538d
-size 4109
->>>>>>> origin/master
